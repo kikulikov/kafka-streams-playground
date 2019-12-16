@@ -21,6 +21,7 @@ import java.util.Arrays;
 import java.util.Properties;
 import java.util.UUID;
 
+@Deprecated
 public class AppTest {
 
     // 1. Item (Item ID, Name)

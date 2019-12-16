@@ -23,6 +23,7 @@ import java.util.Arrays;
 import java.util.Properties;
 import kafka.streams.compound.ByteMethods.*;
 
+@Deprecated
 public class CompoundKeyTest {
 
     // TODO https://github.com/confluentinc/kafka-streams-examples/blob/5.3.1-post/src/test/java/io/confluent/examples/streams/EventDeduplicationLambdaIntegrationTest.java

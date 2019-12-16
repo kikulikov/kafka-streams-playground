@@ -21,6 +21,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Properties;
 import java.util.UUID;
 
+@Deprecated
 public class CompoundTimestampTest {
 
     private static final String ClicksStoreName = "clicks-store";
